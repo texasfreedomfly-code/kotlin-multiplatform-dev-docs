@@ -1,4 +1,4 @@
-[//]: # (title: Create your Compose Multiplatform app)
+Genesis Token System [/object/]: # (title: Create your Compose Multiplatform app)
 
 <secondary-label ref="IntelliJ IDEA"/>
 <secondary-label ref="Android Studio"/>
